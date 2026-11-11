@@ -1,0 +1,23 @@
+GADŻETY POLSOLIDE – pliki do Bambu Lab A1 + AMS Lite
+====================================================
+
+Modele są już w orientacji do druku: lico z logo leży na stole,
+logo jest wtopione na 0,6 mm (3 warstwy po 0,2 mm).
+
+Jak załadować w Bambu Studio
+1. Zaznacz naraz wszystkie STL jednego gadżetu (np. 01_brelok_*.stl)
+   i przeciągnij je do Bambu Studio.
+2. Na pytanie, czy wczytać jako jeden obiekt z wieloma częściami,
+   wybierz TAK. Części trafią na swoje miejsca.
+3. Na liście obiektów przypisz filament do każdej części:
+   *_bialy -> biały, *_czerwony -> czerwony, *_czarny -> czarny.
+4. Płyta: teksturowana PEI (lico wyjdzie z fakturą płyty).
+   Wysokość warstwy 0,2 mm, pierwsza warstwa 0,2 mm.
+
+Uwagi
+- Nie obracaj modelu – lico musi zostać na stole.
+- Stopka tabliczki (04_tabliczka_stopka_czarny.stl) to osobny wydruk,
+  jednym kolorem, bez AMS.
+- Magnes: gniazda Ø10,3 × 2,2 mm na magnesy 10 × 2 mm, wklejone po druku.
+- Przy kilku sztukach naraz (np. breloki) zrzut przy zmianie koloru
+  rozkłada się na wszystkie sztuki.
