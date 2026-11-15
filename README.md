@@ -39,3 +39,9 @@ Otwarta lokalnie z dysku (`file://`) modele się nie wczytają; podejrzyj ją pr
 | Podkładka | 100 × 100 × 4 mm | pod bardzo gorące kubki lepiej całość z PETG |
 | Magnes | 80 × 43 × 3,6 mm | 2 gniazda na magnesy 10 × 2 mm, wklejane po druku |
 | Tabliczka | 130 × 74 × 4 mm + stopka 140 × 34 × 12 mm | stopka drukowana osobno, jednym kolorem |
+
+## Nowa kolekcja: 20 prostych gadżetów do produkcji seryjnej
+
+[**Zobacz katalog 20 modeli i pobierz pliki 3MF**](kolekcja-20-serie8h/)
+
+Nowe modele w kolorach czarny, czerwony i biały, wersje pojedyncze oraz wypełnione płyty 3MF, CAD i cennik orientacyjny. Czasy druku są orientacyjne i wymagają potwierdzenia w slicerze.
