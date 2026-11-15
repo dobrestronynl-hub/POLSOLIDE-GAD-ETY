@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 320" role="img" aria-label="Numer szafki: projekt 3D POLSOLIDE">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#fafafa"/><stop offset="1" stop-color="#e9e9ec"/></linearGradient><filter id="shadow"><feGaussianBlur stdDeviation="8"/></filter></defs>
+<rect width="400" height="320" fill="url(#bg)"/><ellipse cx="200" cy="270" rx="125" ry="18" fill="#000" opacity="0.11" filter="url(#shadow)"/>
+<g transform="translate(200 146) scale(6.6176)"><g filter="url(#shadow)" opacity=".15" transform="translate(0 2)"><rect x="-23.0" y="-17.0" width="46" height="34" rx="5" fill="#18181B"/></g><rect x="-23.0" y="-17.0" width="46" height="34" rx="5" fill="#18181B"/><rect x="-17.48" y="-10.00" width="34.96" height="20.00" rx="2.2" fill="#B7131C"/><text x="0" y="-3.80" dominant-baseline="middle" fill="#F1F0EC" text-anchor="middle" font-family="DejaVu Sans,sans-serif" font-size="3.04" font-weight="bold">POLSOLIDE</text><text x="0" y="4.00" dominant-baseline="middle" fill="#F1F0EC" text-anchor="middle" font-family="DejaVu Sans,sans-serif" font-size="6.40" font-weight="bold">01</text></g>
+<path d="M25 30 h35" stroke="#B7131C" stroke-width="5" stroke-linecap="round"/>
+<text x="25" y="293" font-family="Arial,sans-serif" fill="#6b6b72" font-size="13">POLSOLIDE · 3D · 11/20</text></svg>
